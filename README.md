@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sachinlakshitha20021216@gmail.com**
 
-- ⚡ Fun fact **Can sit in front of a screen for way too long!**
+- ⚡  **I Can sit in front of a screen for way too long!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
