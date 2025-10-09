@@ -2,7 +2,7 @@
 <h3 align="center">Knees deep in ML/Python/CPP</h3>
 
 <h2 align="center"> attention is all you need! </h2>
-- 🔭 I’m currently working on **PYSQL a validation + ORM framework using Python and SQL and a fully legacy but scalable web platform for enterprise Ecommerce . It's been fun!!**
+- 🔭 I’m currently working on PYSQL a validation + ORM framework using Python and SQL and a fully legacy but scalable web platform for enterprise Ecommerce . It's been fun!!
   
 
 - 🌱 I’m currently learning **Python,Next.js,FastAPI,C++**
