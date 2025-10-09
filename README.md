@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Lakshitha</h1>
+<h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 <h3 align="center">Knees deep in ML/Python/CPP</h3>
 
 <h2 align="center"> attention is all you need! </h2>
