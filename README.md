@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sachin Lakshitha</h1>
 <h3 align="center">Knees deep in ML/Python/CPP</h3>
 
+<h2 align="center"> attention is all you need! </h2>
 - 🔭 I’m currently working on **PYSQL a validation + ORM framework using Python and SQL**
+  
 
 - 🌱 I’m currently learning **Python,Next.js,FastAPI,C++**
 
 - 💬 Ask me about **Python,React,LLMs,JS**
 
-- 📫 How to reach me **sachinlakshitha20021216@gmail.com**
+just tryna learn.
 
-- ⚡  **I Can sit in front of a screen for way too long!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
