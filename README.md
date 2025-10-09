@@ -6,8 +6,7 @@
   
 
 - 🌱 I’m currently learning **Python,Next.js,FastAPI,C++**
-- 
-
+  
 - 💬 Ask me about **Python,React,LLMs,JS**
 
 i make PyLint and EsLint cry on the daily.
