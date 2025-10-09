@@ -9,6 +9,10 @@
   
 - 💬 Ask me about **Python,React,LLMs,JS**
 
+- my stack overflowed once and i was writing python btw
+
+- passionate about pushing to main like i own the repo .
+
 i make PyLint and EsLint cry on the daily.
 <p align="left">
 </p>
