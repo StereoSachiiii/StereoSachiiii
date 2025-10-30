@@ -1,16 +1,14 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> attention is all you need! </h2>
-- 🔭 I’m currently working on PYSQL a validation + ORM framework using Python and SQL and a fully legacy but scalable web platform for enterprise Ecommerce . 
+- 🔭 I’m currently working on PYSQL a validation + ORM framework using Python and SQL and a legacy but scalable web platform for Ecommerce . 
   
 
 -  I’m currently learning **Python,Next.js,FastAPI,C++ and Large Language Models**
-  
--  Ask me about **Python,React,LLMs,JS**
+-  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
+-  Ask me about **Python,React,LLMs,JS** for fun!
 
-- my stack overflowed once and i was writing python btw
 
-- passionate about pushing to main like i own the repo .
 
 <p align="left">
 </p>
