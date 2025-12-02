@@ -7,7 +7,7 @@
 -  I’m currently learning **Python,C++ and Large Language Models**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
 -  Ask me about **Python,React,LLMs,JS** for fun!
--  I'm aspiring to become a C++ developer!
+-  I'm aspiring to become a C++ developer /Rt systems!
 
 
 
