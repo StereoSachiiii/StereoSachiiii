@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on PYSQL a validation + ORM framework using Python and SQL and a legacy but scalable web platform for Ecommerce . 
   
 
--  I’m currently learning **Python,Next.js,FastAPI,C++ and Large Language Models**
+-  I’m currently learning **Python,C++ and Large Language Models**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
 -  Ask me about **Python,React,LLMs,JS** for fun!
+-  I'm aspiring to become a C++ developer!
 
 
 
