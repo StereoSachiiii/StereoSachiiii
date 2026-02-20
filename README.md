@@ -1,12 +1,12 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> attention is all you need! </h2>
-- 🔭 I’m currently working on PYSQL a validation + ORM framework using Python and SQL and a legacy but scalable web platform for Ecommerce . 
+- 🔭 I’m currently working on a validation + ORM framework using Python and SQL and a Orderbook in C++. 
   
 
--  I’m currently learning **Python,C++ and Large Language Models**
+-  I’m currently learning **Python,C++ and a bit of AI, Neural nets**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
--  Ask me about **Python,React,LLMs,JS** for fun!
+-  Ask me about **React/LLMS** for fun!
 -  I'm aspiring to become a C++ developer /Rt systems!
 
 
