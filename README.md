@@ -6,7 +6,7 @@
 
 -  I’m currently learning **Python,C++ and a bit of AI, Neural nets**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
--  Ask me about **React/LLMS** for fun!
+-  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
 -  I'm aspiring to become a C++ developer /Rt systems!
 
 
