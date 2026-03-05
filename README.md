@@ -1,23 +1,27 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
-<h2 align="center"> attention is all you need! </h2>
+<h2 align="center"> I build for domains where missing a deadline isn't an option! </h2>
 - 🔭 I’m currently working on a validation + ORM framework using Python and SQLITE and a Orderbook in C++. 
   
 
 -  I’m currently learning **Python,C++ and a bit of AI, Neural nets**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
 -  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
--  I'm hoping to become a C++ developer that works Real time systems/finance!
 -  I'm obsessed with music. EQ mixing, Headphones and astrophysics. Let's theorycraft about these!
--  Hmu if you want something running! 
-If serverless:
-	Vercel + Cloudflare + Supabase
-else if you want traditional 
-	We can use  AWS EC2 , Dockerize(next + node) , cloudflare cdn, depending on the scale. I am not experienced with Kubernetes beyond basics.
+  
 
 
 
 ## **Languages and Tools I'm Familiar With**
+
+### ⚙️ Systems & Performance Engineering
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![MSVC](https://img.shields.io/badge/-MSVC-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/-GDB-A8B9CC?style=flat-square&logo=gnu&logoColor=black)
+
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,20 +30,16 @@ else if you want traditional
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -48,7 +48,7 @@ else if you want traditional
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+
 
 ### **Data Science & ML**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
@@ -59,16 +59,14 @@ else if you want traditional
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-### **Additional Skills**
-- **UI Libraries**:various component libraries and design systems, mainly Material and shadcn
-- **API Development**:  RESTful APIs with FastAPI, Express, and Django
+### **Additional tools**
+- **UI Libraries**: mainly Material,redux and shadcn
+- **API Development**:  RESTful APIs with FastAPI, Express and Spring
 - **Data Validation**: Zod, Pydantic
 - **UI/visualization**: matplotlib 
-
 ---
-tryna get gud
+
 
