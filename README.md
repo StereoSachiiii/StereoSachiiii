@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
-<h2 align="center"> I build for domains where missing a deadline isn't an option! </h2>
+<h2 align="center"> I build stuff! </h2>
 - 🔭 I’m currently working on a validation + ORM framework using Python and SQLITE and a Orderbook in C++. 
   
 
