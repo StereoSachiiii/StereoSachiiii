@@ -9,7 +9,7 @@
 -  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
 -  I'm obsessed with music. EQ mixing, Headphones and astrophysics. Let's theorycraft about these!
   
-
+most importantly im a draven main
 
 
 ## **Languages and Tools I'm Familiar With**
