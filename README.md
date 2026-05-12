@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> I build stuff! </h2>
-- 🔭 I’m currently working on understanding LLV:InstCombine / InstSimplify / ValueTracking for optimizations and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
+- 🔭 I’m currently working on understanding LLVM:InstCombine / InstSimplify / ValueTracking for optimizations and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
   
 
 -  I’m currently learning **Python,C++ and a bit of AI, Neural nets**
@@ -9,7 +9,7 @@
 -  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
 -  I'm obsessed with music. EQ mixing, Headphones and astrophysics. Let's theorycraft about these!
   
-most importantly im a draven main
+i like to build like a lotttttttttttttt
 
 
 ## **Languages and Tools I'm Familiar With**
