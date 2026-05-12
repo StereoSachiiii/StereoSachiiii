@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> I build stuff! </h2>
-- 🔭 I’m currently working on a A distributed web crawler built with C++ and Python (FastAPI), using Kafka (Confluent) for task streaming, that extracts web content and uses embedding-based semantic similarity to detect copyright violations and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
+- 🔭 I’m currently working on understanding LLV:InstCombine / InstSimplify / ValueTracking for optimizations and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
   
 
 -  I’m currently learning **Python,C++ and a bit of AI, Neural nets**
