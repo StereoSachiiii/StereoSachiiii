@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on understanding LLVM:InstCombine / InstSimplify / ValueTracking for optimizations and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
   
 
--  I’m currently learning **Python,C++ and a bit of AI, Neural nets**
+-  I’m currently learning **LLVM,C++ and a bit of devops/infra**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
 -  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
--  I'm obsessed with music. EQ mixing, Headphones and astrophysics. Let's theorycraft about these!
+-  Looking towards a compiler/ Hpc career.
   
 i like to build like a lotttttttttttttt
 
