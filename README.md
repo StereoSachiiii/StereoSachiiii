@@ -7,7 +7,7 @@
 -  I’m currently learning **LLVM,C++ and a bit of devops/infra**
 -  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
 -  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
--  Looking towards a compiler/ Hpc career.
+-  Looking towards a compiler/ Hpc career or SRE/Devops .
   
 i like to build like a lotttttttttttttt
 
