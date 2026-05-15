@@ -14,7 +14,7 @@ i like to build like a lotttttttttttttt
 
 ## **Languages and Tools I'm Familiar With**
 
-### ⚙️ Systems & Performance Engineering
+### ⚙️ Systems 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
