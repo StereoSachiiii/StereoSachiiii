@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> I build stuff! </h2>
-- 🔭 I’m currently working on understanding LLVM:InstCombine / InstSimplify / ValueTracking for optimizations and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
+- 🔭 I’m currently working on understanding LLVM:InstCombine / InstSimplify / ValueTracking , transforms module and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
   
 
 -  I’m currently learning **LLVM,C++ and a bit of devops/infra**
