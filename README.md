@@ -53,14 +53,6 @@ tool dump incoming (ik)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-
-
-### **Data Science & ML**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
