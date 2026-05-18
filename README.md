@@ -1,16 +1,22 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> I build stuff! </h2>
-- 🔭 I’m currently working on understanding LLVM:InstCombine / InstSimplify / ValueTracking , transforms module and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
+- I’m currently working on understanding LLVM:InstCombine / InstSimplify / ValueTracking , transforms module and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
   
 
 -  I’m currently learning **LLVM,C++ and a bit of devops/infra**
--  Learning C++ and performance related concepts trying to understand memmory/concurrency and operating systems.  
--  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems! 
+-  Learning C++ and performance related concepts trying to understand memory, concurrency, cache, hardware behaviour and operating systems.
+-  My code looks super c-ish even though i do use move semantics, RAII, placement new and other new features.. maybe because it doesn't
+  have enough semicolons.
+-  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems!
 -  Looking towards a compiler/ Hpc career or SRE/Devops .
-  
-i like to build like a lotttttttttttttt
+-  I also ship a bit, i use supabase and next.js for commercial work, and i can deploy on aws with that stack.
 
+-  how can i balance all these? i used to play league. hope that explains it.
+  
+i like to build like a lotttttttttttttt.
+
+tool dump incoming (ik)
 
 ## **Languages and Tools I'm Familiar With**
 
