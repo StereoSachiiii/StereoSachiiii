@@ -7,14 +7,12 @@
 -  I’m currently learning **LLVM,C++ and a bit of devops/infra**
 -  Learning C++ and performance related concepts trying to understand memory, concurrency, cache, hardware behaviour and operating systems.
 -  My code looks super c-ish even though i do use move semantics, RAII, placement new and other new features.. maybe because it doesn't
-  have enough semicolons.
+  have enough colons! i do try to follow misra and google style guides for cpp.
 -  I will build things that are solved already to understand them and hopefully someday help the people that maintain these systems!
--  Looking towards a compiler/ Hpc career or SRE/Devops .
--  I also ship a bit, i use supabase and next.js for commercial work, and i can deploy on aws with that stack.
+-  Looking towards a compiler/ Hpc career or SRE/Devops.
 
--  how can i balance all these? i used to play league. hope that explains it.
   
-i like to build like a lotttttttttttttt.
+i like to build like a lotttttttttttttt.like a whole looott
 
 tool dump incoming (ik)
 
