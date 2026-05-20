@@ -14,40 +14,6 @@
 i like to build like a lotttttttttttttt.like a whole looott
 and i read code like a lott. like all the time.
 
-Projects!!!
-
-## HFT Backtesting Engine — C++(high performance/low latency software)
-- Reads real NASDAQ market data and reconstructs a live orderbook from raw bytes. You can run your own trading strategy against it and see if it makes money. A built-in market maker using the Avellaneda-Stoikov model backtested across 100 symbols  including high-volatility sessions — came out ~$15k simulated PnL, with accurate fill simulation down to queue position and depth.
-- The PnL isn't the point.
-- The point is what had to be built to get there: parsing NASDAQ ITCH 5.0 binary protocol at the byte level, reconstructing the full L3 orderbook, then building the infrastructure underneath it — lock-free SPSC/MPSC queues, memory pools with aligned prefaulted allocation, hierarchical bitsets with compiler intrinsics for fast lookups, cache-line aware data layout, RAII ownership throughout.
-- And also learned tooling like ASan,TSan and GDB. works for both GCC and MSVC.
-- It's a working answer to the question: what does it actually take to keep the prefetcher, cache, TLB, and CPU happy from raw bytes all the way to PnL?
-
-## it is a fun journey! changed the entire way of how i view software and made the hardware visible to me!
-
-## Royal Beverages — Vanilla PHP E-Commerce - (full stack but i built a mini framework)
-- Built to understand what Laravel and React actually do.
-- No frameworks. Custom MVC from scratch, reflection-based DI container that autowires classes automatically, regex router, framework-less SPA renderer for the admin dashboard, PSR-4 autoloader, multi-warehouse FIFO stock engine with row-level locking.
-- The interesting part isn't the storefront. It's that once you've written your own DI container, you stop treating Laravel's service container as magic. Same with the router. Same with the SPA renderer. That's why this exists.
-- Full technical breakdown in ARCHITECTURE.md. Docker setup in two commands.
-
-## DevOps Learning Platform — TypeScript / Go - (addressing the issue where existing devops onboarding seems to miss the painpoints)
-- KodeKloud exists. This is different.
-- Most platforms give you a sandbox and a checklist. This one drops you into a broken system and asks you to fix it — the way you'd actually encounter it at work. 
-- The platform itself is the curriculum: the same Kafka, Kubernetes, Postgres RLS, and observability stack you're learning about is what's running underneath you. I will try to encode as much pain points as i can in real development!
-- The hard part isn't the feature set. It's that running user code safely at scale is an unsolved problem in this codebase.Firecracker is the likely answer. The current approach: Kafka dispatches sandbox jobs to a Go worker, the goroutine spawns the container then drops ownership, stdio path returns immediately. State lives in Redis, async-written to Postgres. It's hybrid and it's honest about being hybrid.
-- Architecture decisions are documented in docs/adr — including what was chosen, what was rejected, and what will break under load.
-
-
-## Bookfair Stall Reservation System — React / Spring Boot / Java - (full stack)
-- The interesting problem wasn't the reservations. It was the floor plan designer.
-- Admins draw stalls directly onto a canvas. Influence zones — traffic hotspots, entrances, food courts — radiate outward as circles and adjust stall prices based on proximity, geometry, and edge distance. Move a stall closer to an entrance and the price updates in real time. The pricing heuristic isn't a lookup table; it's a spatial calculation that runs on every geometry change.
-Under that: three canvas layers (zones, influences, stalls) with separate draw modes and interaction semantics, SELECT FOR UPDATE row locking to prevent double-booking under concurrent load, STOMP WebSocket broadcast so every connected client sees reservation changes sub-100ms, and a full CI/CD pipeline deploying to EC2 via GitHub Actions.
-- The state architecture for the designer alone — separating raw mouse lifecycle from domain state from interaction context — took longer to get right than most of the rest of the system.
-- Technical deep-dive in architecture.md. Docker up in one command.
-
-
-
 tool dump incoming (ik)
 
 ## **Languages and Tools I'm Familiar With**
@@ -97,5 +63,41 @@ tool dump incoming (ik)
 - **Data Validation**: Zod, Pydantic
 - **UI/visualization**: matplotlib 
 ---
+
+
+
+Projects!!!
+
+## HFT Backtesting Engine — C++(high performance/low latency software)
+- Reads real NASDAQ market data and reconstructs a live orderbook from raw bytes. You can run your own trading strategy against it and see if it makes money. A built-in market maker using the Avellaneda-Stoikov model backtested across 100 symbols  including high-volatility sessions — came out ~$15k simulated PnL, with accurate fill simulation down to queue position and depth.
+- The PnL isn't the point.
+- The point is what had to be built to get there: parsing NASDAQ ITCH 5.0 binary protocol at the byte level, reconstructing the full L3 orderbook, then building the infrastructure underneath it — lock-free SPSC/MPSC queues, memory pools with aligned prefaulted allocation, hierarchical bitsets with compiler intrinsics for fast lookups, cache-line aware data layout, RAII ownership throughout.
+- And also learned tooling like ASan,TSan and GDB. works for both GCC and MSVC.
+- It's a working answer to the question: what does it actually take to keep the prefetcher, cache, TLB, and CPU happy from raw bytes all the way to PnL?
+
+## it is a fun journey! changed the entire way of how i view software and made the hardware visible to me!
+
+## Royal Beverages — Vanilla PHP E-Commerce - (full stack but i built a mini framework)
+- Built to understand what Laravel and React actually do.
+- No frameworks. Custom MVC from scratch, reflection-based DI container that autowires classes automatically, regex router, framework-less SPA renderer for the admin dashboard, PSR-4 autoloader, multi-warehouse FIFO stock engine with row-level locking.
+- The interesting part isn't the storefront. It's that once you've written your own DI container, you stop treating Laravel's service container as magic. Same with the router. Same with the SPA renderer. That's why this exists.
+- Full technical breakdown in ARCHITECTURE.md. Docker setup in two commands.
+
+## DevOps Learning Platform — TypeScript / Go - (addressing the issue where existing devops onboarding seems to miss the painpoints)
+- KodeKloud exists. This is different.
+- Most platforms give you a sandbox and a checklist. This one drops you into a broken system and asks you to fix it — the way you'd actually encounter it at work. 
+- The platform itself is the curriculum: the same Kafka, Kubernetes, Postgres RLS, and observability stack you're learning about is what's running underneath you. I will try to encode as much pain points as i can in real development!
+- The hard part isn't the feature set. It's that running user code safely at scale is an unsolved problem in this codebase.Firecracker is the likely answer. The current approach: Kafka dispatches sandbox jobs to a Go worker, the goroutine spawns the container then drops ownership, stdio path returns immediately. State lives in Redis, async-written to Postgres. It's hybrid and it's honest about being hybrid.
+- Architecture decisions are documented in docs/adr — including what was chosen, what was rejected, and what will break under load.
+
+
+## Bookfair Stall Reservation System — React / Spring Boot / Java - (full stack)
+- The interesting problem wasn't the reservations. It was the floor plan designer.
+- Admins draw stalls directly onto a canvas. Influence zones — traffic hotspots, entrances, food courts — radiate outward as circles and adjust stall prices based on proximity, geometry, and edge distance. Move a stall closer to an entrance and the price updates in real time. The pricing heuristic isn't a lookup table; it's a spatial calculation that runs on every geometry change.
+Under that: three canvas layers (zones, influences, stalls) with separate draw modes and interaction semantics, SELECT FOR UPDATE row locking to prevent double-booking under concurrent load, STOMP WebSocket broadcast so every connected client sees reservation changes sub-100ms, and a full CI/CD pipeline deploying to EC2 via GitHub Actions.
+- The state architecture for the designer alone — separating raw mouse lifecycle from domain state from interaction context — took longer to get right than most of the rest of the system.
+- Technical deep-dive in architecture.md. Docker up in one command.
+
+
 
 
