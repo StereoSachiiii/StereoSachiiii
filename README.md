@@ -1,10 +1,10 @@
 <h1 align="center">Hi 🤓, I'm Sachin Lakshitha</h1>
 
 <h2 align="center"> I build stuff! </h2>
-- I’m currently working on understanding LLVM  transforms module and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
+- I’m currently working on understanding LLVM   and an Orderbook that parses NASDAQ in C++ and simulates real market data. 
   
 
--  I’m currently learning **LLVM,C++ and a bit of devops/infra**
+-  I’m currently learning **LLVM,C++,Go and a bit of devops/infra**
 -  Learning C++ and performance related concepts trying to understand memory, concurrency, cache, hardware behaviour and operating systems.
 -  My code looks super c-ish even though i do use new features.. maybe because it doesn't have enough colons! 
 -  I build things that are solved already to understand them and hopefully someday help the people that maintain these systems!
