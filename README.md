@@ -11,10 +11,6 @@
 -  Looking towards a compiler/ Hpc career or SRE/Devops.
 
   
-i like to build like a lotttt
-
-tool dump incoming (ik)
-
 ## **Languages and Tools I'm Familiar With**
 
 ### ⚙️ Systems 
