@@ -6,7 +6,6 @@
 
 -  I’m currently learning **LLVM,C++,Go and a bit of devops/infra**
 -  Learning C++ and performance related concepts trying to understand memory, concurrency, cache, hardware behaviour and operating systems.
--  My code looks super c-ish even though i do use new features.. maybe because it doesn't have enough colons! 
 -  I build things that are solved already to understand them and hopefully someday help the people that maintain these systems!
 -  Looking towards a compiler/ Hpc career or SRE/Devops.
 
