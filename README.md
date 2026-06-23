@@ -8,6 +8,7 @@
 -  Learning C++ and performance related concepts trying to understand memory, concurrency, cache, hardware behaviour and operating systems.
 -  I build things that are solved already to understand them and hopefully someday help the people that maintain these systems!
 -  Looking towards a compiler/ Hpc career or SRE/Devops.
+-  i can also ship full stack, i do low level programming as a hobby.
 
   
 ## **Languages and Tools I'm Familiar With**
